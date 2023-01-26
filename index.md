@@ -1,5 +1,5 @@
 
-# Hello Word
+# Hello World
 
 ## About me 
 
