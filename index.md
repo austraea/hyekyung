@@ -7,7 +7,7 @@ My name is Hyekyung. I am a second-year Phd student and novice Digital Humanist.
 
 ## Contact information
 
-hxj240@miami.edu
+[hxj240@miami.edu](mailto:hxj240@miami.edu)
 
 ## Education 
 
