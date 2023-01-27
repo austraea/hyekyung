@@ -27,4 +27,4 @@ My name is Hyekyung. I am a second-year Phd student and novice Digital Humanist.
 
 ## My links 
 
-Write some usefull links for you! 
+[Hyekyung's Coursework](https://austraea.github.io/)
