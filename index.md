@@ -11,11 +11,13 @@ hxj240@miami.edu
 
 ## Education 
 
-
+2021-present: University of Miami
+2018-2021: Ewha Womans University (South Korea)
 
 ## Publications 
 
-Make another list with your publications. 
+2019: "Courtship and Poetic Authority in Katherine Philip's Female Friendship." *Ewha Institute of English and American Studies,* Vol.17, No.2
+[Courtship and Poetic Authority in Katherine Philip's Female Friendship](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=f2ae83606b08a6a947de9c1710b0298d&keyword=Hyekyung%20Jung%20%20Katherine%20Philips)
 
 > Write here a quote of an author you love! 
 
