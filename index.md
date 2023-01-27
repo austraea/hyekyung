@@ -20,9 +20,9 @@ hxj240@miami.edu
 ["Courtship and Poetic Authority in Katherine Philip's Female Friendship"](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=f2ae83606b08a6a947de9c1710b0298d&keyword=Hyekyung%20Jung%20%20Katherine%20Philips)
 
 
-公無渡河 
-公竟渡河 
-墮河而死 
+公無渡河<br/>
+公竟渡河<br/> 
+墮河而死<br/> 
 當奈公何 
 
 ## My links 
