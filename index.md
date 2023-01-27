@@ -3,13 +3,15 @@
 
 ## About me 
 
-Write here a blurb about your self. Create some links 
+My name is Hyekyung. I am a second-year Phd student and novice Digital Humanist. 
 
 ## Contact information
 
+hxj240@miami.edu
+
 ## Education 
 
-Make a list of your degrees
+
 
 ## Publications 
 
