@@ -27,5 +27,6 @@ My name is Hyekyung. I am a second-year Phd student and novice Digital Humanist.
 
 ## My links 
 
-[Hyekyung's Page](https://austraea.github.io/)
+[Hyekyung's Page](https://austraea.github.io/)<br/>
+
 [Hyekyung's DH Project in 2022](https://austraea.github.io/DHProject2022/)
