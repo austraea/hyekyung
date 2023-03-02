@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hyekyung Jung</title>
+        <style>
+            body {
+                background-color: #e6e2d3;
+                font-family: "PT Sans", Helvetica, Arial, sans-serif;
+            }
+            
+            h1 {
+                color: #bd5734;
+            }
+            p {
+                color: #587e76;
+            }</style>
+    </head>
+    <body>
+        <h1>Hyekyung Jung</h1>
+        <p>This is Hyekyung's Page.</p>
+    </body>
+</html>
